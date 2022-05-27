@@ -1,0 +1,15 @@
+{
+  "name": "@valiantthor92/github-pkg-demo",
+  "repository": {
+    "url": "git:://github.com/ValiantThor92/github-pkg-demo"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
